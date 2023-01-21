@@ -1,0 +1,45 @@
+.flex
+{
+    display: flex;
+}
+.justify-center
+{
+    justify-content: center;
+}
+.justify-between
+{
+    justify-content: space-between;
+}
+.align-center
+{
+    align-items: center;
+}
+
+.text-center
+{
+    text-align: center;
+}
+.btn
+{
+    padding: .7rem 1.5rem;
+}
+a
+{
+    text-decoration: none;
+    color: var(--secondary);
+}
+
+.subSectionPadding
+{
+    padding: 3rem 0;
+}
+
+.sectionPadding
+{
+    margin: 5rem 0;
+}
+
+.flex-col
+{
+    flex-direction: column;
+}
